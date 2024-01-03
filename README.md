@@ -15,26 +15,6 @@ This Python application is a simple Sudoku Solver built using the Streamlit libr
 - **Solver**: Solve the Sudoku puzzle with the click of a button.
 - **Output Solution**: View the solved Sudoku puzzle in a formatted table.
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/sudoku-solver.git
-    cd sudoku-solver
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the application:
-
-    ```bash
-    streamlit run sudoku_solver.py
-    ```
 
 ## Usage
 
