@@ -26,6 +26,3 @@ This Python application is a simple Sudoku Solver built using the Streamlit libr
 
 - [Streamlit](https://www.streamlit.io/): The web framework used for building the user interface.
 - [Pandas](https://pandas.pydata.org/): Used for data manipulation and managing the Sudoku input/output.
-
-
-Feel free to add any additional sections, such as "Contributing," "Acknowledgments," or "Troubleshooting," depending on the specific needs of your project.
