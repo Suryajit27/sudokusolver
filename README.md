@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 ## Checkout the deployed verion
-[Click Here]([https://www.streamlit.io/](https://sudokusolver-s9ozswfh576df7mszhkmjy.streamlit.app/])
+[Click Here]([https://sudokusolver-s9ozswfh576df7mszhkmjy.streamlit.app/])
 
 
 ## Overview
