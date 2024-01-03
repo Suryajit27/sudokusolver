@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-## Checkout the deployed verion
+## Checkout the deployed version
 [Click Here](https://sudokusolver-s9ozswfh576df7mszhkmjy.streamlit.app/)
 
 
