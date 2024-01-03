@@ -11,7 +11,6 @@ This Python application is a simple Sudoku Solver built using the Streamlit libr
 ## Features
 
 - **Input Sudoku Puzzle**: Enter the initial Sudoku puzzle using an editable table.
-- **Visual Separation**: Display the Sudoku puzzle with clear separation for individual 3x3 squares.
 - **Solver**: Solve the Sudoku puzzle with the click of a button.
 - **Output Solution**: View the solved Sudoku puzzle in a formatted table.
 
